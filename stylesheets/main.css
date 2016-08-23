@@ -22,6 +22,7 @@
 }
 
 .thumbnails {
+  object-fit: cover;
   height: 150px;
   width: 200px;
 }
